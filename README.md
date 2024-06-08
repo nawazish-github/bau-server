@@ -9,3 +9,4 @@
 ## Release Notes
 
 -   version v0.3.2 has multipart file upload with form-data
+-   version v0.3.3 has search purchase feature
